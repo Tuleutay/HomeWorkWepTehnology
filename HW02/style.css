@@ -1,0 +1,18 @@
+html{
+    background-color: rgb(40, 200, 152);
+}
+
+h1{
+    color: rgb(5, 12, 99);
+    align-items: center;
+}
+
+h2{
+    color: #ffee00;
+    font-family: 'Teddy Bear',sans-serif;
+}
+
+a{
+    color: #f3c381;
+    font-size: 1.3rem;
+}
